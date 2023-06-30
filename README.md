@@ -1,3 +1,16 @@
+This is a Next.js project bootstrapped with create-next-app.
+
+Getting Started
+First, run the development server:
+
+npm run dev
+# or
+yarn dev
+
+npm install  to install the dependencies
+
+Open http://localhost:3000 with your browser to see the result.
+
 # Next.js + TailwindCSS
 
 Next.js Documentation: https://nextjs.org/docs<br>
