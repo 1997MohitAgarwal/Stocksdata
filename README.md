@@ -11,6 +11,10 @@ npm install  to install the dependencies
 
 Open http://localhost:3000 with your browser to see the result.
 
+# To open in Codesandbox.
+Type box between github and .com in the url and see the application.
+
+
 # Next.js + TailwindCSS
 
 Next.js Documentation: https://nextjs.org/docs<br>
