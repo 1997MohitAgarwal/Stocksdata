@@ -8,7 +8,7 @@ export default function Stories(props){
     <div className={`story grid ${props.display} mt-10 gap-x-2 gap-y-6`}>
       {stories.map((ele,i)=>{
        return(
-         <div>
+         <div key={i}>
          <Card css={{width:"fit-content"}}>
     <Card.Footer css={{ position: "absolute", zIndex: 1, bottom:5}}>
       <Col>
